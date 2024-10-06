@@ -1,0 +1,5 @@
+location = /favicon.ico {
+  access_log off;
+  empty_gif;
+  expires 30d;
+}
